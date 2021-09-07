@@ -1,0 +1,98 @@
+Question 1   list the Git branches.
+# command          $git branch
+ *master
+  moma
+  whitney
+
+
+
+
+
+Question 2     Deleting moma and whitney
+#commands      $git branch -D moma
+               $git branch -D whitney
+
+
+
+
+
+
+Question 3   Crteating and switching to unordered-list
+#command to create                    $git branch unordered-list
+#command to switch to branch          $git checkout unordered-list
+
+
+
+
+
+Question 4 Paragraph tag successfully replaced with unordered list
+
+
+
+
+
+
+Question 5   Adding index.html to the staging area
+#command      $git add index.html
+
+
+
+
+
+
+Question 6   commiting unordered list to index.html
+#command        $git commit -m "commiting index.html file with unordered-list"
+
+
+
+
+
+
+
+Question 7  Merging unordered-list to master branch
+#switching to master branch                     $git checkout master
+#merging unordered-list                         $git merge unordered-list
+
+
+
+
+
+
+Question 8    Creating big-heading
+#command      $git branch big-heading
+
+
+
+
+
+
+
+
+
+Question 9   SWitching to  big-heading to edit h1 tag
+#command     $git checkout  big-heading
+
+
+
+
+
+
+
+Question 10 Adding index.html to the staging
+#command    $git add index.html
+
+
+
+
+
+
+Question 11   Commiting h1 edits to index.html
+#command       $git commit -m "commit index.html"
+
+
+
+
+Question 11   Merging big-heading to master
+#command to switch to master                  $git checkout master
+#merging big-heading to master                $git merge big-heading
+
